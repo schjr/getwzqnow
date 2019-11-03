@@ -326,7 +326,7 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/schjr.png');
+    background: #fff url('../img/Newss.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
@@ -337,10 +337,10 @@ hr {
     background: #fff url('../img/Oldking.png');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/President.png');
+    background: #fff url('../img/Newzl.png');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/Dragon.png');
+    background: #fff url('../img/NewDra.png');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
     background: #fff url('../img/messy.png');
@@ -354,7 +354,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/Fox.png');
+    background: #fff url('../img/NewFox.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -386,7 +386,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/Osprey.png');
+    background: #fff url('../img/new.png');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
